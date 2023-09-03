@@ -4,7 +4,7 @@
 
 Welcome to the Real-Time Color Grading system for your webcam! This Python script leverages OpenCV to perform real-time color grading on your webcam feed, allowing you to explore different color modes and effects on the fly. With this tool, you can experiment with various color spaces and even create artistic visual effects.
 
-![Cover Image](img/Real Time Color Grading through Webcam - OpenCV - LinkedIn Post.png)
+![Cover Image](img/Cover_Image.png)
 
 ## Usage
 
