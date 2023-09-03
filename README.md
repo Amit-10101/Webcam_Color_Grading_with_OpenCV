@@ -16,7 +16,7 @@ Welcome to the Real-Time Color Grading system for your webcam! This Python scrip
 1. Clone the "Webcam_Color_Grading_with_OpenCV" repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Webcam_Color_Grading_with_OpenCV.git
+   git clone https://github.com/Amit-10101/Webcam_Color_Grading_with_OpenCV.git
    ```
 
 2. Navigate to the project directory:
